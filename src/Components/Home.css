@@ -1,0 +1,20 @@
+.heading{
+    font-size: 30px;
+    font-weight: 700;
+    color: red;
+}
+.Superplan{
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+}
+.daily{
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+}
+.price{
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
